@@ -1,0 +1,1 @@
+A few helpful tips and patterns when using SQL with Snowflake.
